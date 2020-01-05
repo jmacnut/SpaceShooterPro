@@ -1,2 +1,2 @@
 # SpaceShooterPro
-First 2D Project in Unity 2019 (GameDev HQ)
+Course 1A: 2D Project in Unity 2019 (GameDev HQ)
